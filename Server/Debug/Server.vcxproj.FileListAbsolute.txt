@@ -1,0 +1,6 @@
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\mutex\Trabalho Prático 1\Trabalhos Práticos\Server\Debug\Server.exe
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\mutex\Trabalho Prático 1\Trabalhos Práticos\Server\Debug\Server.pdb
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\Server\Debug\Server.exe
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\Server\Debug\Server.pdb
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\1º Trabalho\Server\Debug\Server.exe
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\1º Trabalho\Server\Debug\Server.pdb

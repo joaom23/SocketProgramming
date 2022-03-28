@@ -1,0 +1,4 @@
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\EuroMilhoes_Cliente\Debug\EuroMilhoes_Cliente.exe
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\EuroMilhoes_Cliente\Debug\EuroMilhoes_Cliente.pdb
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\1º Trabalho\EuroMilhoes_Cliente\Debug\EuroMilhoes_Cliente.exe
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\1º Trabalho\EuroMilhoes_Cliente\Debug\EuroMilhoes_Cliente.pdb
